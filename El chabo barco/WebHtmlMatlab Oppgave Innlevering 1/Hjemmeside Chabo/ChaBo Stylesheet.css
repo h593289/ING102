@@ -103,9 +103,9 @@ li a:hover {
 .høyrebilde {
 		position: absolute;
 		right: 0px;
-		top: 10%;
+		top: 0px;
 		width: 60%;
-		height: 90%;
+		height: 100%;
 		}
 		
 h1 {
@@ -189,4 +189,12 @@ li {
 
 .navA {
 	color: white;
+}
+
+h4 {
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 20px;
 }
